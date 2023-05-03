@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "name": "Julia Child",
+    "photo": "https://example.com/julia-child.jpg",
+    "bio": "Julia Child was an American-born French chef and author who is credited with introducing French cuisine to the American public through her books and television shows. She lived in France for many years and studied at the famous Le Cordon Bleu cooking school in Paris.",
+    "number_of_recipes": 3,
+    "years_of_experience": 50,
+    "recipe": [
+      {
+        "id": 1,
+        "name": "Quiche Lorraine",
+        "ingredients": [
+          "1 pie crust",
+          "6 slices of bacon, cooked and crumbled",
+          "1 cup of shredded Swiss cheese",
+          "4 eggs",
+          "1 cup of heavy cream",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "Preheat the oven to 375 degrees F. Line a 9-inch pie dish with the pie crust. In a mixing bowl, whisk together the eggs and heavy cream. Add salt and pepper to taste. Stir in the bacon and Swiss cheese. Pour the mixture into the prepared pie crust. Bake for 35-40 minutes or until the filling is set and the crust is golden brown.",
+        "rating": 4.7
+      },
+      {
+        "id": 2,
+        "name": "Beef Bourguignon",
+        "ingredients": [
+          "2 pounds of beef chuck, cut into 2-inch cubes",
+          "6 slices of bacon, chopped",
+          "1 large onion, chopped",
+          "2 cloves of garlic, minced",
+          "2 cups of red wine",
+          "2 cups of beef broth",
+          "1 tablespoon of tomato paste",
+          "1 teaspoon of thyme",
+          "1 teaspoon of rosemary",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "Cook bacon over medium heat in a large Dutch oven until crisp. Remove bacon and set aside. Season beef with salt and pepper, and cook in the bacon fat until browned. Remove beef and set aside. Cook onion and garlic until softened. Add wine, beef broth, tomato paste, thyme, and rosemary, and bring to a boil. Add beef and bacon back to the pot, cover, and simmer for 2-3 hours. ",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "name": "Ratatouille",
+        "ingredients": [
+          "2 large eggplants, cubed",
+          "3 zucchinis, cubed",
+          "1 red bell pepper, chopped",
+          "1 yellow bell pepper, chopped",
+          "1 onion, chopped",
+          "4 cloves of garlic, minced",
+          "2 cups of tomato sauce",
+          "1 teaspoon of dried thyme",
+          "1 teaspoon of dried basil",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "Heat olive oil over medium-high heat. Cook eggplant until browned, then remove from skillet. Cook zucchini, peppers, onion, and garlic until softened. Add tomato sauce, thyme, basil, salt, and pepper, and bring to a boil. Add eggplant back to the skillet and stir to combine. Cover and simmer for 10-15 minutes.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Alain Passard",
+    "photo": "https://example.com/alain-passard.jpg",
+    "bio": "Alain Passard is a French chef and restaurateur who is known for his innovative approach to vegetarian cuisine. He has earned numerous Michelin stars throughout his career and is the owner of the renowned restaurant Arpège in Paris.",
+    "number_of_recipes": 3,
+    "years_of_experience": 30,
+    "recipe": [
+      {
+        "id": 1,
+        "name": "Quiche Lorraine",
+        "ingredients": [
+          "1 pie crust",
+          "6 slices of bacon, cooked and crumbled",
+          "1 cup of shredded Swiss cheese",
+          "4 eggs",
+          "1 cup of heavy cream",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "Preheat the oven to 375 degrees F. Line a 9-inch pie dish with the pie crust. In a mixing bowl, whisk together the eggs and heavy cream. Add salt and pepper to taste. Stir in the bacon and Swiss cheese. Pour the mixture into the prepared pie crust. Bake for 35-40 minutes or until the filling is set and the crust is golden brown.",
+        "rating": 4.7
+      },
+      {
+        "id": 2,
+        "name": "Beef Bourguignon",
+        "ingredients": [
+          "2 pounds of beef chuck, cut into 2-inch cubes",
+          "6 slices of bacon, chopped",
+          "1 large onion, chopped",
+          "2 cloves of garlic, minced",
+          "2 cups of red wine",
+          "2 cups of beef broth",
+          "1 tablespoon of tomato paste",
+          "1 teaspoon of thyme",
+          "1 teaspoon of rosemary",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "Cook bacon over medium heat in a large Dutch oven until crisp. Remove bacon and set aside. Season beef with salt and pepper, and cook in the bacon fat until browned. Remove beef and set aside. Cook onion and garlic until softened. Add wine, beef broth, tomato paste, thyme, and rosemary, and bring to a boil. Add beef and bacon back to the pot, cover, and simmer for 2-3 hours. ",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "name": "Ratatouille",
+        "ingredients": [
+          "2 large eggplants, cubed",
+          "3 zucchinis, cubed",
+          "1 red bell pepper, chopped",
+          "1 yellow bell pepper, chopped",
+          "1 onion, chopped",
+          "4 cloves of garlic, minced",
+          "2 cups of tomato sauce",
+          "1 teaspoon of dried thyme",
+          "1 teaspoon of dried basil",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "Heat olive oil over medium-high heat. Cook eggplant until browned, then remove from skillet. Cook zucchini, peppers, onion, and garlic until softened. Add tomato sauce, thyme, basil, salt, and pepper, and bring to a boil. Add eggplant back to the skillet and stir to combine. Cover and simmer for 10-15 minutes.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Anne-Sophie Pic",
+    "photo": "https://example.com/anne-sophie-pic.jpg",
+    "bio": "Anne-Sophie Pic is a French chef and restaurateur who is the fourth female chef in history to earn three Michelin stars. She is the owner of the renowned restaurant Maison Pic in Valence, France.",
+    "number_of_recipes": 3,
+    "years_of_experience": 25,
+    "recipe": [
+      {
+        "id": 1,
+        "name": "Quiche Lorraine",
+        "ingredients": [
+          "1 pie crust",
+          "6 slices of bacon, cooked and crumbled",
+          "1 cup of shredded Swiss cheese",
+          "4 eggs",
+          "1 cup of heavy cream",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "Preheat the oven to 375 degrees F. Line a 9-inch pie dish with the pie crust. In a mixing bowl, whisk together the eggs and heavy cream. Add salt and pepper to taste. Stir in the bacon and Swiss cheese. Pour the mixture into the prepared pie crust. Bake for 35-40 minutes or until the filling is set and the crust is golden brown.",
+        "rating": 4.7
+      },
+      {
+        "id": 2,
+        "name": "Beef Bourguignon",
+        "ingredients": [
+          "2 pounds of beef chuck, cut into 2-inch cubes",
+          "6 slices of bacon, chopped",
+          "1 large onion, chopped",
+          "2 cloves of garlic, minced",
+          "2 cups of red wine",
+          "2 cups of beef broth",
+          "1 tablespoon of tomato paste",
+          "1 teaspoon of thyme",
+          "1 teaspoon of rosemary",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "Cook bacon over medium heat in a large Dutch oven until crisp. Remove bacon and set aside. Season beef with salt and pepper, and cook in the bacon fat until browned. Remove beef and set aside. Cook onion and garlic until softened. Add wine, beef broth, tomato paste, thyme, and rosemary, and bring to a boil. Add beef and bacon back to the pot, cover, and simmer for 2-3 hours. ",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "name": "Ratatouille",
+        "ingredients": [
+          "2 large eggplants, cubed",
+          "3 zucchinis, cubed",
+          "1 red bell pepper, chopped",
+          "1 yellow bell pepper, chopped",
+          "1 onion, chopped",
+          "4 cloves of garlic, minced",
+          "2 cups of tomato sauce",
+          "1 teaspoon of dried thyme",
+          "1 teaspoon of dried basil",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "Heat olive oil over medium-high heat. Cook eggplant until browned, then remove from skillet. Cook zucchini, peppers, onion, and garlic until softened. Add tomato sauce, thyme, basil, salt, and pepper, and bring to a boil. Add eggplant back to the skillet and stir to combine. Cover and simmer for 10-15 minutes.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Eric Ripert",
+    "photo": "https://example.com/eric-ripert.jpg",
+    "bio": "Eric Ripert is a French-born chef and author who is the owner of the renowned restaurant Le Bernardin in New York City. He has earned numerous accolades throughout his career, including four stars from The New York Times and three Michelin stars.",
+    "number_of_recipes": 3,
+    "years_of_experience": 30,
+    "recipe": [
+      {
+        "id": 1,
+        "name": "Quiche Lorraine",
+        "ingredients": [
+          "1 pie crust",
+          "6 slices of bacon, cooked and crumbled",
+          "1 cup of shredded Swiss cheese",
+          "4 eggs",
+          "1 cup of heavy cream",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "Preheat the oven to 375 degrees F. Line a 9-inch pie dish with the pie crust. In a mixing bowl, whisk together the eggs and heavy cream. Add salt and pepper to taste. Stir in the bacon and Swiss cheese. Pour the mixture into the prepared pie crust. Bake for 35-40 minutes or until the filling is set and the crust is golden brown.",
+        "rating": 4.7
+      },
+      {
+        "id": 2,
+        "name": "Beef Bourguignon",
+        "ingredients": [
+          "2 pounds of beef chuck, cut into 2-inch cubes",
+          "6 slices of bacon, chopped",
+          "1 large onion, chopped",
+          "2 cloves of garlic, minced",
+          "2 cups of red wine",
+          "2 cups of beef broth",
+          "1 tablespoon of tomato paste",
+          "1 teaspoon of thyme",
+          "1 teaspoon of rosemary",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "Cook bacon over medium heat in a large Dutch oven until crisp. Remove bacon and set aside. Season beef with salt and pepper, and cook in the bacon fat until browned. Remove beef and set aside. Cook onion and garlic until softened. Add wine, beef broth, tomato paste, thyme, and rosemary, and bring to a boil. Add beef and bacon back to the pot, cover, and simmer for 2-3 hours. ",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "name": "Ratatouille",
+        "ingredients": [
+          "2 large eggplants, cubed",
+          "3 zucchinis, cubed",
+          "1 red bell pepper, chopped",
+          "1 yellow bell pepper, chopped",
+          "1 onion, chopped",
+          "4 cloves of garlic, minced",
+          "2 cups of tomato sauce",
+          "1 teaspoon of dried thyme",
+          "1 teaspoon of dried basil",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "Heat olive oil over medium-high heat. Cook eggplant until browned, then remove from skillet. Cook zucchini, peppers, onion, and garlic until softened. Add tomato sauce, thyme, basil, salt, and pepper, and bring to a boil. Add eggplant back to the skillet and stir to combine. Cover and simmer for 10-15 minutes.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Joël Robuchon",
+    "photo": "https://example.com/joel-robuchon.jpg",
+    "bio": "Joël Robuchon was a French chef and restaurateur who was one of the most decorated chefs in the world, with 31 Michelin stars to his name. He was known for his innovative approach to French cuisine and his emphasis on using fresh, high-quality ingredients.",
+    "number_of_recipes": 3,
+    "years_of_experience": 50,
+    "recipe": [
+      {
+        "id": 1,
+        "name": "Quiche Lorraine",
+        "ingredients": [
+          "1 pie crust",
+          "6 slices of bacon, cooked and crumbled",
+          "1 cup of shredded Swiss cheese",
+          "4 eggs",
+          "1 cup of heavy cream",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "Preheat the oven to 375 degrees F. Line a 9-inch pie dish with the pie crust. In a mixing bowl, whisk together the eggs and heavy cream. Add salt and pepper to taste. Stir in the bacon and Swiss cheese. Pour the mixture into the prepared pie crust. Bake for 35-40 minutes or until the filling is set and the crust is golden brown.",
+        "rating": 4.7
+      },
+      {
+        "id": 2,
+        "name": "Beef Bourguignon",
+        "ingredients": [
+          "2 pounds of beef chuck, cut into 2-inch cubes",
+          "6 slices of bacon, chopped",
+          "1 large onion, chopped",
+          "2 cloves of garlic, minced",
+          "2 cups of red wine",
+          "2 cups of beef broth",
+          "1 tablespoon of tomato paste",
+          "1 teaspoon of thyme",
+          "1 teaspoon of rosemary",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "Cook bacon over medium heat in a large Dutch oven until crisp. Remove bacon and set aside. Season beef with salt and pepper, and cook in the bacon fat until browned. Remove beef and set aside. Cook onion and garlic until softened. Add wine, beef broth, tomato paste, thyme, and rosemary, and bring to a boil. Add beef and bacon back to the pot, cover, and simmer for 2-3 hours. ",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "name": "Ratatouille",
+        "ingredients": [
+          "2 large eggplants, cubed",
+          "3 zucchinis, cubed",
+          "1 red bell pepper, chopped",
+          "1 yellow bell pepper, chopped",
+          "1 onion, chopped",
+          "4 cloves of garlic, minced",
+          "2 cups of tomato sauce",
+          "1 teaspoon of dried thyme",
+          "1 teaspoon of dried basil",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "Heat olive oil over medium-high heat. Cook eggplant until browned, then remove from skillet. Cook zucchini, peppers, onion, and garlic until softened. Add tomato sauce, thyme, basil, salt, and pepper, and bring to a boil. Add eggplant back to the skillet and stir to combine. Cover and simmer for 10-15 minutes.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Dominique Crenn",
+    "photo": "https://example.com/dominique-crenn.jpg",
+    "bio": "Dominique Crenn is a French-born chef who is the owner of the acclaimed restaurant Atelier Crenn in San Francisco. She is the first female chef in the United States to earn three Michelin stars.",
+    "number_of_recipes": 3,
+    "years_of_experience": 20,
+    "recipe": [
+      {
+        "id": 1,
+        "name": "Quiche Lorraine",
+        "ingredients": [
+          "1 pie crust",
+          "6 slices of bacon, cooked and crumbled",
+          "1 cup of shredded Swiss cheese",
+          "4 eggs",
+          "1 cup of heavy cream",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "Preheat the oven to 375 degrees F. Line a 9-inch pie dish with the pie crust. In a mixing bowl, whisk together the eggs and heavy cream. Add salt and pepper to taste. Stir in the bacon and Swiss cheese. Pour the mixture into the prepared pie crust. Bake for 35-40 minutes or until the filling is set and the crust is golden brown.",
+        "rating": 4.7
+      },
+      {
+        "id": 2,
+        "name": "Beef Bourguignon",
+        "ingredients": [
+          "2 pounds of beef chuck, cut into 2-inch cubes",
+          "6 slices of bacon, chopped",
+          "1 large onion, chopped",
+          "2 cloves of garlic, minced",
+          "2 cups of red wine",
+          "2 cups of beef broth",
+          "1 tablespoon of tomato paste",
+          "1 teaspoon of thyme",
+          "1 teaspoon of rosemary",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "Cook bacon over medium heat in a large Dutch oven until crisp. Remove bacon and set aside. Season beef with salt and pepper, and cook in the bacon fat until browned. Remove beef and set aside. Cook onion and garlic until softened. Add wine, beef broth, tomato paste, thyme, and rosemary, and bring to a boil. Add beef and bacon back to the pot, cover, and simmer for 2-3 hours. ",
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "name": "Ratatouille",
+        "ingredients": [
+          "2 large eggplants, cubed",
+          "3 zucchinis, cubed",
+          "1 red bell pepper, chopped",
+          "1 yellow bell pepper, chopped",
+          "1 onion, chopped",
+          "4 cloves of garlic, minced",
+          "2 cups of tomato sauce",
+          "1 teaspoon of dried thyme",
+          "1 teaspoon of dried basil",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "Heat olive oil over medium-high heat. Cook eggplant until browned, then remove from skillet. Cook zucchini, peppers, onion, and garlic until softened. Add tomato sauce, thyme, basil, salt, and pepper, and bring to a boil. Add eggplant back to the skillet and stir to combine. Cover and simmer for 10-15 minutes.",
+        "rating": 4.5
+      }
+    ]
+  }
+]
