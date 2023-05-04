@@ -4,8 +4,8 @@
     "name": "Julia Child",
     "photo": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-82645345.jpg",
     "bio": "Julia Child was an American-born French chef and author who is credited with introducing French cuisine to the American public through her books and television shows. She lived in France for many years and studied at the famous Le Cordon Bleu cooking school in Paris.",
-    "number_of_recipes": 3,
     "years_of_experience": 50,
+    "likes": 120,
     "recipe": [
       {
         "id": 1,
@@ -64,8 +64,8 @@
     "name": "Alain Passard",
     "photo": "https://cdn.tatlerasia.com/asiatatler/i/ph/2018/11/05153224-story-image-236620_cover_1920x1280.jpg",
     "bio": "Alain Passard is a French chef and restaurateur who is known for his innovative approach to vegetarian cuisine. He has earned numerous Michelin stars throughout his career and is the owner of the renowned restaurant Arpège in Paris.",
-    "number_of_recipes": 3,
     "years_of_experience": 30,
+    "likes": 990,
     "recipe": [
       {
         "id": 1,
@@ -124,8 +124,8 @@
     "name": "Anne-Sophie Pic",
     "photo": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/im_square_33_fallback/public/Anne-Sophie-Pic.jpg?itok=lbrcwxS6",
     "bio": "Anne-Sophie Pic is a French chef and restaurateur who is the fourth female chef in history to earn three Michelin stars. She is the owner of the renowned restaurant Maison Pic in Valence, France.",
-    "number_of_recipes": 3,
     "years_of_experience": 25,
+    "likes": 630,
     "recipe": [
       {
         "id": 1,
@@ -184,8 +184,8 @@
     "name": "Eric Ripert",
     "photo": "https://americanpistachios.org/sites/default/files/pictures/2019-06/FMC-Eric-Ripert-300x300.jpg",
     "bio": "Eric Ripert is a French-born chef and author who is the owner of the renowned restaurant Le Bernardin in New York City. He has earned numerous accolades throughout his career, including four stars from The New York Times and three Michelin stars.",
-    "number_of_recipes": 3,
     "years_of_experience": 30,
+    "likes": 300,
     "recipe": [
       {
         "id": 1,
@@ -244,8 +244,8 @@
     "name": "Joël Robuchon",
     "photo": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2018_32/2521486/180806-joel-robuchon-dk-1126.jpg",
     "bio": "Joël Robuchon was a French chef and restaurateur who was one of the most decorated chefs in the world, with 31 Michelin stars to his name. He was known for his innovative approach to French cuisine and his emphasis on using fresh, high-quality ingredients.",
-    "number_of_recipes": 3,
     "years_of_experience": 50,
+    "likes": 100,
     "recipe": [
       {
         "id": 1,
@@ -304,8 +304,8 @@
     "name": "Dominique Crenn",
     "photo": "https://s.hdnux.com/photos/01/07/00/21/18613364/8/rawImage.jpg",
     "bio": "Dominique Crenn is a French-born chef who is the owner of the acclaimed restaurant Atelier Crenn in San Francisco. She is the first female chef in the United States to earn three Michelin stars.",
-    "number_of_recipes": 3,
     "years_of_experience": 20,
+    "likes": 200,
     "recipe": [
       {
         "id": 1,
